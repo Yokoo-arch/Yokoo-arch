@@ -11,9 +11,9 @@
 <br>
 
 - Passionate about everything related to computer
-- Playing some CTF's at spare time
-- This time a bit in machine learning
+- Actualy going in machine learning stuff
 - Currently learning ethical hacking and c++ by self
+- Playing some CTF's at spare time
 - Personal website : in progress
 
 <br><br>
