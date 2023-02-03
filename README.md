@@ -12,7 +12,7 @@
 
 - Passionate about everything related to computer
 - Actualy going in machine learning stuff
-- Currently learning ethical hacking and c++ by self
+- Currently learning ethical hacking and rust by self
 - Playing some CTF's at spare time
 - Personal website : in progress
 
