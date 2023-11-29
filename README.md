@@ -75,7 +75,7 @@
 <div align="center">
 
 <a href="https://github.com/Yokoo-arch/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yokoo-arch&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yokoo-arch&include_all_commits=true&show_icons=true&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokoo-arch&show_icons=true&locale=en&layout=compact&theme=synthwave"/>
 
 </a>
