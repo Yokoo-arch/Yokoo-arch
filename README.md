@@ -99,4 +99,9 @@ Terminal: Kitty / WezTerm
 
 ---
 
+### Contact
+Mail: izdpyuce@tutamail.com
+
+---
+
 Last Edited: 2026
