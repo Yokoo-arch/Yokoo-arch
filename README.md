@@ -16,33 +16,6 @@ Cybersecurity student interested in automation, machine learning, and low-level 
 
 ---
 
-## Highlighted Projects
-
-### Barcode Detection System
-
-Barcode detection and decoding system built for a company.
-Designed to reliably detect barcodes under different sizes, orientations, and resolutions.
-
-### Proxy Rotation System
-
-High-throughput proxy rotation infrastructure designed to support large request workloads.
-
-Features include:
-
-* Automatic proxy rotation
-* Integrated **proxy scraper** that collects free proxies from public proxy websites
-* Networking utilities for managing proxy pools
-
-### Minecraft Modding / Plugin Development
-
-Development of custom Minecraft mods and server plugins focused on automation and gameplay mechanics.
-
-### A* Maze Solver
-
-Python implementation of the **A*** pathfinding algorithm with graphical visualization of the solving process.
-
----
-
 ## Tech Stack
 
 ### Languages
