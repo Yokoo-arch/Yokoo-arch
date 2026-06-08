@@ -52,23 +52,10 @@ Cybersecurity student interested in automation, machine learning, and low-level 
 ## Development Environment
 
 ```
-OS: Debian 12
-Editor: Doom Emacs (custom configuration)
+OS: Debian 12 / arch
+Editor: Doom Emacs / neovim (lazyvim)
 Terminal: Kitty / WezTerm
 ```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Yokoo-arch">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yokoo-arch&include_all_commits=true&show_icons=true&theme=synthwave"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yokoo-arch&layout=compact&theme=synthwave"/>
-</a>
-
-</div>
 
 ---
 
